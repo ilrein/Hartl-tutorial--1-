@@ -68,9 +68,18 @@ p {
 	}
 }
 
+header {
+	li {
+	color: white;
+	float: right;
+	}
+}
+
 footer {
-	margin-top: 45px;
-	padding-top: 45px;
+	margin-top: 25px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
 	border-top: 1px solid #eaeaea;
 	color: $lightGray;
 
@@ -97,3 +106,4 @@ footer {
 	}
 	}
 }
+
